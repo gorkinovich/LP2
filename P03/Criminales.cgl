@@ -1,0 +1,97 @@
+Functions called:
+ vsnprintf (28 times)
+ strchr (66 times)
+ delete (827 times)
+ SysReallocMem (85 times)
+ SysFreeMem (3644 times)
+ SysGetMem (3673 times)
+ realloc (1 times)
+ memcpy (1 times)
+ delete[] (4 times)
+ free (32 times)
+ new[] (18 times)
+ new (834 times)
+ calloc (8 times)
+ malloc (23 times)
+Resource types used:
+ object array (18 allocs, 16 max)
+ object (834 allocs, 342 max)
+ memory block (3705 allocs, 1046 max)
+Modules used:
+ 00400000 03/27/2007 18:24:20 C:\Programacion\CBuilder5\Lex\Practica
+ 03\Criminales.exe
+ 01500000 02/06/2007 18:45:14 C:\Archivos de programa\Archivos
+ comunes\Logishrd\LVMVFM\LVPrcInj.dll
+ 01590000 06/29/2006 09:05:44 C:\WINDOWS\system32\Normaliz.dll
+ 01650000 09/16/2006 10:33:10 C:\Archivos de
+ programa\TortoiseSVN\bin\intl3_svn.dll
+ 0CD00000 01/31/2000 05:00:00
+ c:\programacion\CBuilder5\CBuilder5\Bin\CG32.DLL
+ 10000000 09/16/2006 11:58:58 C:\Archivos de
+ programa\TortoiseSVN\bin\tortoisesvn.dll
+ 32500000 01/31/2000 05:00:00
+ c:\programacion\CBuilder5\CBuilder5\Bin\CC3250MT.DLL
+ 40000000 01/24/2000 05:01:00 C:\WINDOWS\system32\VCL50.BPL
+ 41000000 01/31/2000 05:00:00
+ c:\programacion\CBuilder5\CBuilder5\Bin\BORLNDMM.DLL
+ 58C30000 08/25/2006 17:46:30 C:\WINDOWS\system32\comctl32.dll
+ 597F0000 08/17/2006 14:29:42 C:\WINDOWS\system32\NETAPI32.dll
+ 5B150000 08/20/2004 14:00:00 C:\WINDOWS\system32\UxTheme.dll
+ 62E30000 08/20/2004 14:00:00 C:\WINDOWS\system32\LPK.DLL
+ 6E060000 09/16/2006 11:51:06 C:\Archivos de
+ programa\TortoiseSVN\iconv\windows-1252.so
+ 6E850000 01/08/2007 20:02:04 C:\WINDOWS\system32\iertutil.dll
+ 6ED50000 09/16/2006 11:51:06 C:\Archivos de
+ programa\TortoiseSVN\iconv\utf-8.so
+ 6EE40000 09/16/2006 11:51:08 C:\Archivos de
+ programa\TortoiseSVN\iconv\_tbl_simple.so
+ 6EE50000 09/16/2006 11:49:44 C:\Archivos de
+ programa\TortoiseSVN\bin\libapriconv_tsvn.dll
+ 6EE60000 09/16/2006 11:51:20 C:\Archivos de
+ programa\TortoiseSVN\bin\libaprutil_tsvn.dll
+ 6EEC0000 09/16/2006 11:49:40 C:\Archivos de
+ programa\TortoiseSVN\bin\libapr_tsvn.dll
+ 719D0000 08/20/2004 14:00:00 C:\WINDOWS\system32\MSWSOCK.dll
+ 71A20000 08/20/2004 14:00:00 C:\WINDOWS\system32\WS2HELP.dll
+ 71A30000 08/20/2004 14:00:00 C:\WINDOWS\system32\WS2_32.dll
+ 71A50000 08/20/2004 14:00:00 C:\WINDOWS\system32\wsock32.dll
+ 71AA0000 08/20/2004 14:00:00 C:\WINDOWS\system32\mpr.dll
+ 72F80000 08/20/2004 14:00:00 C:\WINDOWS\system32\winspool.drv
+ 746B0000 12/07/2004 00:54:58 C:\WINDOWS\system32\MSCTF.dll
+ 74D20000 08/20/2004 14:00:00 C:\WINDOWS\system32\USP10.dll
+ 75160000 08/20/2004 14:00:00 C:\WINDOWS\system32\msctfime.ime
+ 76340000 08/20/2004 14:00:00 C:\WINDOWS\system32\IMM32.DLL
+ 76360000 08/20/2004 14:00:00 C:\WINDOWS\system32\comdlg32.dll
+ 76630000 08/20/2004 14:00:00 C:\WINDOWS\system32\USERENV.dll
+ 76740000 08/20/2004 14:00:00 C:\WINDOWS\system32\SHFOLDER.dll
+ 76950000 08/20/2004 14:00:00 C:\WINDOWS\system32\ntshrui.dll
+ 76AE0000 08/20/2004 14:00:00 C:\WINDOWS\system32\ATL.DLL
+ 76F90000 07/26/2005 06:39:56 C:\WINDOWS\system32\CLBCATQ.DLL
+ 77010000 08/20/2004 14:00:00 C:\WINDOWS\system32\COMRes.dll
+ 770F0000 08/20/2004 14:00:00 C:\WINDOWS\system32\oleaut32.dll
+ 771B0000 01/12/2007 10:27:42 C:\WINDOWS\system32\WININET.dll
+ 773A0000 08/25/2006 17:46:26
+ C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.
+2600.2982_x-ww_ac3f9c03\comctl32.dll
+ 774B0000 07/26/2005 06:40:00 C:\WINDOWS\system32\ole32.dll
+ 778F0000 08/20/2004 14:00:00 C:\WINDOWS\system32\SETUPAPI.dll
+ 77B10000 08/20/2004 14:00:00 C:\WINDOWS\system32\appHelp.dll
+ 77BD0000 08/20/2004 14:00:00 C:\WINDOWS\system32\version.dll
+ 77BE0000 08/20/2004 14:00:00 C:\WINDOWS\system32\msvcrt.dll
+ 77D10000 03/02/2005 20:10:34 C:\WINDOWS\system32\user32.dll
+ 77DA0000 08/20/2004 14:00:00 C:\WINDOWS\system32\advapi32.dll
+ 77E50000 08/20/2004 14:00:00 C:\WINDOWS\system32\RPCRT4.dll
+ 77EF0000 12/29/2005 04:56:04 C:\WINDOWS\system32\GDI32.dll
+ 77F40000 10/23/2006 17:34:38 C:\WINDOWS\system32\SHLWAPI.dll
+ 77FC0000 08/20/2004 14:00:00 C:\WINDOWS\system32\Secur32.dll
+ 78130000 12/01/2006 23:54:32
+ C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_
+6b128700\MSVCR80.dll
+ 7C420000 12/01/2006 23:54:34
+ C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.762_x-ww_
+6b128700\MSVCP80.dll
+ 7C800000 07/05/2006 12:56:30 C:\WINDOWS\system32\kernel32.dll
+ 7C910000 08/20/2004 14:00:00 C:\WINDOWS\system32\ntdll.dll
+ 7C9D0000 12/19/2006 23:49:48 C:\WINDOWS\system32\SHELL32.dll
+ 7E1E0000 10/16/2006 18:14:42 C:\WINDOWS\system32\oledlg.dll
+==========================================

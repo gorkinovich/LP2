@@ -1,0 +1,52 @@
+Functions called:
+ strchr (21 times)
+ vsnprintf (12 times)
+ delete (412 times)
+ SysReallocMem (25 times)
+ SysFreeMem (1579 times)
+ SysGetMem (1579 times)
+ realloc (1 times)
+ memcpy (1 times)
+ delete[] (6 times)
+ free (32 times)
+ new[] (20 times)
+ new (419 times)
+ calloc (8 times)
+ malloc (23 times)
+Resource types used:
+ object array (20 allocs, 17 max)
+ object (419 allocs, 162 max)
+ memory block (1611 allocs, 545 max)
+Modules used:
+ 00400000 01/15/2007 18:59:04 Z:\LP2\Practica 02\Criminales.exe
+ 0CD00000 01/31/2000 04:00:00 C:\Archivos de
+ programa\Borland\CBuilder5\Bin\CG32.DLL
+ 10000000 02/23/2001 11:11:52 C:\WINNT\mui\fallback\0c0a\msctf.dll.mui
+ 32500000 01/31/2000 04:00:00 C:\Archivos de
+ programa\Borland\CBuilder5\Bin\CC3250MT.DLL
+ 40000000 01/24/2000 04:01:00 C:\WINNT\system32\VCL50.BPL
+ 41000000 01/31/2000 04:00:00 C:\Archivos de
+ programa\Borland\CBuilder5\Bin\BORLNDMM.DLL
+ 60000000 05/26/2004 14:15:56 C:\WINNT\system32\MSCTF.dll
+ 70A70000 10/16/2006 15:22:12 C:\WINNT\system32\SHLWAPI.DLL
+ 71710000 08/28/2006 09:44:10 C:\WINNT\system32\comctl32.dll
+ 74FD0000 08/09/2000 01:00:00 C:\WINNT\system32\WS2HELP.DLL
+ 74FE0000 06/19/2003 11:05:04 C:\WINNT\system32\WS2_32.DLL
+ 75000000 06/19/2003 11:05:04 C:\WINNT\system32\wsock32.dll
+ 752A0000 08/09/2000 01:00:00 C:\WINNT\system32\oledlg.dll
+ 75980000 06/19/2003 11:05:04 C:\WINNT\system32\LZ32.DLL
+ 76B10000 06/19/2003 11:05:04 C:\WINNT\system32\comdlg32.dll
+ 77120000 04/13/2006 06:17:12 C:\WINNT\system32\RPCRT4.dll
+ 77800000 06/19/2003 11:05:04 C:\WINNT\system32\winspool.drv
+ 77820000 06/19/2003 11:05:04 C:\WINNT\system32\version.dll
+ 779B0000 06/19/2003 11:05:04 C:\WINNT\system32\oleaut32.dll
+ 77E10000 06/03/2005 13:33:48 C:\WINNT\system32\user32.dll
+ 77F40000 12/30/2005 17:16:02 C:\WINNT\system32\GDI32.dll
+ 78000000 06/19/2003 11:05:04 C:\WINNT\system32\msvcrt.dll
+ 78460000 08/16/2005 12:39:12 C:\WINNT\system32\ntdll.dll
+ 78FF0000 06/03/2005 15:22:18 C:\WINNT\system32\advapi32.dll
+ 79450000 06/21/2006 07:52:22 C:\WINNT\system32\kernel32.dll
+ 79520000 06/03/2005 15:22:34 C:\WINNT\system32\mpr.dll
+ 7CE60000 09/05/2005 09:18:58 C:\WINNT\system32\ole32.dll
+ 7CF70000 07/13/2006 08:09:30 C:\WINNT\system32\SHELL32.DLL
+==========================================

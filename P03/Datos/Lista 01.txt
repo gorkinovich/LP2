@@ -1,0 +1,10 @@
+DelincuenteComun
+Delincuente.dni=1
+Delincuente.nombre=1
+Delincuente.delitos=1 -1 1
+CaraComun
+Cara.pelo=raya
+Cara.ojos=gafas
+Cara.narizYOrejas=redonda
+Cara.boca=pequeña
+Cara.menton=barba
